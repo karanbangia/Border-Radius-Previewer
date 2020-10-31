@@ -1,0 +1,50 @@
+
+.main {
+    min-height: 150vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.sliders{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.container1 {
+    max-width: 500px;
+    height: auto;
+    border: 1px solid #262121;
+}
+
+.container2 {
+    max-width: 500px;
+    height: auto;
+    margin-top: 40px;
+}
+
+.text-left {
+    float: left;
+}
+
+.text-right {
+    float: right;
+}
+
+#rounded-box {
+    background-color: MediumSeaGreen;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    padding: 50px;
+    margin:auto;
+    border-radius: 40% 40% 40% 40%;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.cssbox {
+    width: 30rem;
+    height: 300px;
+    overflow: scroll;
+}
