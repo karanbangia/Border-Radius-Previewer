@@ -18,7 +18,7 @@ Note: NodeJS version must be v8 or above to run the ReactJS framework
 #### Step 1
 Clone the repository
 ```
-git clone https://github.com/joshjab/Border-Radius-Previewer.git
+git clone https://github.com/karanbangia/Border-Radius-Previewer.git
 ```
 #### Step 2
 Run an npm install to download the required packages
